@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+BLc+J7HyfeixpVsBBE1uIWp19rpmTpyykMUrrv4vRJlstfIbRltUfoZcckaM6PbgZZSj3Sp6vivuxrckhNBA==",
+  "success": true,
+  "projectFilePath": "/home/jonathan/Estudo/CRUD-com-Angular-e-.Net-Core-Web-API/CRUDAPI/CRUDAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/jonathan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/jonathan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/jonathan/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/jonathan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/jonathan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/jonathan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
